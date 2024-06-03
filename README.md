@@ -92,8 +92,7 @@ To get started with the Article Clustered Recommendation System, follow these st
 
 ---
 
-## Connect With Me 🌐
-
+## Connect With Me 
 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
 
 
