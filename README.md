@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Article Clustered Recommendation System project! This system aims to provide personalized article recommendations to users based on their interests and reading history. By clustering similar articles and leveraging advanced machine learning techniques, the system enhances user engagement and facilitates content discovery.
+Welcome to the Article Clustered Recommendation System project! This system aims to provide personalized article recommendations to users based on their interests and reading history. By clustering similar articles and leveraging advanced machine-learning techniques, the system enhances user engagement and facilitates content discovery.
 
 ---
 
@@ -18,7 +18,7 @@ The Article Clustered Recommendation System employs machine learning algorithms 
 
 - **Enhanced User Engagement**: Through a curated selection of relevant and engaging content, the system aims to captivate users' attention and encourage continued exploration of articles. By presenting articles that align closely with users' interests, the system enhances user engagement and satisfaction, ultimately increasing the likelihood of prolonged interaction with the platform.
 
-- **Advanced Machine Learning Techniques**: Leveraging state-of-the-art machine learning techniques such as Principal Component Analysis (PCA) and K-Means clustering, the system delivers accurate and efficient article recommendations. These advanced algorithms enable the system to analyze complex patterns and relationships within the article dataset, resulting in precise recommendations that reflect the diverse interests and preferences of users.
+- **Advanced Machine Learning Techniques**: Leveraging state-of-the-art machine learning techniques such as Principal Component Analysis (PCA) and K-means clustering, the system delivers accurate and efficient article recommendations. These advanced algorithms enable the system to analyze complex patterns and relationships within the article dataset, resulting in precise recommendations that reflect the diverse interests and preferences of users.
 
 ---
 
@@ -26,7 +26,7 @@ The Article Clustered Recommendation System employs machine learning algorithms 
 
 - **User Alignment**: Ensuring that recommended articles align closely with user interests and preferences is a significant challenge. With the vast array of available content, accurately predicting user preferences and delivering relevant recommendations requires sophisticated algorithms capable of analyzing diverse user interactions and behavior patterns.
 
-- **Information Overload**: Balancing content diversity while preventing information overload is another key challenge. With an abundance of articles available, users may feel overwhelmed by the sheer volume of content presented to them. Striking a balance between providing diverse content options and curating a personalized selection tailored to each user's preferences is essential to prevent user fatigue and ensure a positive user experience.
+- **Information Overload**: Another key challenge is balancing content diversity while preventing information overload. With an abundance of articles available, users may feel overwhelmed by the sheer volume of content presented to them. Striking a balance between providing diverse content options and curating a personalized selection tailored to each user's preferences is essential to prevent user fatigue and ensure a positive user experience.
 
 - **Scalability**: Scaling the recommendation system efficiently to accommodate growing user and article databases presents a technical challenge. As the user base and article database expand, the system must be capable of handling increased computational demands while maintaining optimal performance. Ensuring scalability requires careful architectural design and implementation to support seamless system growth and user scalability.
 
@@ -58,12 +58,12 @@ The Article Clustered Recommendation System employs machine learning algorithms 
 
 - **Python**: Primary programming language for development.
 - **TensorFlow**: Framework for building and training machine learning models.
-- **scikit-learn**: Toolkit for machine learning tasks such as clustering and dimensionality reduction.
+- **sci-kit-learn**: Toolkit for machine learning tasks such as clustering and dimensionality reduction.
 - **SciPy**: Crucial for numerical computations in machine learning projects and beyond.
 - **Pandas**: Library for data manipulation and analysis.
 - **NumPy**: Fundamental package for scientific computing.
 - **Plotly**: Visualization library for creating interactive plots and charts.
-- **Keras**: High-level neural networks API built on top of TensorFlow.
+- **Keras**: High-level neural networks API built on TensorFlow.
 - **Anaconda**: Package manager for managing software environments and dependencies.
 
 
@@ -74,7 +74,7 @@ The Article Clustered Recommendation System employs machine learning algorithms 
 
 - **Real-Time Recommendations**: Implement real-time algorithms to provide live predictions and instant article recommendations based on user interactions. Exploring opportunities to develop and deploy an adaptive algorithm capable of providing instant recommendations based on real-time user interactions will enhance the system's ability to deliver personalized content suggestions tailored to each user's evolving interests and preferences.
 
-- **Enhanced Clustering Models**: Explore advanced clustering techniques to improve the accuracy and granularity of article clustering, thereby enhancing recommendation quality. Investigating opportunities to enhance the clustering model by integrating advanced techniques to analyze and categorize articles across a diverse range of topics will enrich the system's ability to identify and recommend relevant content, ultimately enhancing the user experience and engagement.
+- **Enhanced Clustering Models**: Explore advanced clustering techniques to improve the accuracy and granularity of article clustering, thereby enhancing recommendation quality. Investigating opportunities to enhance the clustering model by integrating advanced techniques to analyze and categorize articles across diverse topics will enrich the system's ability to identify and recommend relevant content, ultimately enhancing the user experience and engagement.
 
 - **Integration with External Platforms**: Integrate the Article Clustered Recommendation System with external platforms and applications to extend its reach and impact across diverse user communities. Leveraging integration opportunities with external platforms and applications will broaden the system's reach and accessibility, allowing it to cater to a wider audience and further enriching the content discovery
 experience.
